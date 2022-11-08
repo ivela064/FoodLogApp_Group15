@@ -30,7 +30,7 @@ Since this is a proof of concept we concluded that this answers pretty well to t
 
 ![image](https://user-images.githubusercontent.com/113482288/200460025-aa259841-795a-4721-b9a7-cadfde99e9a9.png)
 
-![image](https://user-images.githubusercontent.com/113482288/200460177-fa790e1c-5745-4eed-b159-a1466a853a03.png)
+![image](https://user-images.githubusercontent.com/113482288/200465432-8bffe5a3-30ee-4118-8a7f-b2f83965b38f.png)
 
 ## References:
 
