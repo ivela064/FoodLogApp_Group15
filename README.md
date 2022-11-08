@@ -22,7 +22,9 @@ So run this code in your IDE to install these requirements to be able to run the
 
 - Proof of Concept Explaination
 
-We have based our effor in this proof of concept in the machine learning module, the team along with the customer have decided that this part of the app represents both what can add the most value to the customer business and also what produces the highest uncertainty. Thus, taking this into account we have spend more time than anything in making sure the Machine Learning part of the code was the most optimized. Provided that this dataset is usedan accuracy of the food recognition of around 93% will be obtained as desired from the customer.
+We have based our effor in this proof of concept in the machine learning module, the team along with the customer have decided that this part of the app represents both what can add the most value to the customer business and also what produces the highest uncertainty. Thus, taking this into account we have spend more time than anything in making sure the Machine Learning part of the code was the most optimized. Provided that this [dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) is used, an accuracy of food recognition of around 93% will be obtained as desired from the customer. 
+
+Since this is a proof of concept we concluded that this answers pretty well to the need present here. There are some limitations such as having small datasets trained which means not all food can be tested at this point, and we also deploy this in a web environment,however, these will be addressed in the future when the prototype is built since these limitations are not very important or hard to achieve.
 
 Examples
 
