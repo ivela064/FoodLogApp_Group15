@@ -26,4 +26,4 @@ Examples
 
 References:
 
-- [Reference](https://github.com/Spidy20?tab=repositories) This code would have been possible without all the repository content here, credits to its author.
+- This code would have been possible without all the repository content [here](https://github.com/Spidy20?tab=repositories), credits to its author.
