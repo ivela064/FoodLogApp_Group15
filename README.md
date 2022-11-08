@@ -11,7 +11,7 @@ So open a terminal and run the next code line in your IDE to install these requi
 
 > pip install -r requirements.txt
 
-4. Now install streamlit,keras,tensorflow, and beautifulsoup4 in your IDE by running the next commands in your IDE (it might take a while)
+4. Now install streamlit,keras,tensorflow, and beautifulsoup4 in your IDE by running the next commands in your IDE one by one (it might take a while)
 
 > pip install streamlit
 
