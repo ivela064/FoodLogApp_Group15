@@ -16,4 +16,8 @@ streamlit run FoodLogApp.py
 
 - We are using the service Streamlit which allows the user to commit a website in real time which we use to deploy the app, FoodLogApp.py is the main source of the code and FoodLogApp.ipynb is a file where we set the machine learning modules where we train the AI so it learns from several images to understand how to detect food.
 
-5. We have use a group of images(dataset) from this website
+- We have use a group of images(dataset) from these two websites https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/ - https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
+
+Examples
+![image](https://user-images.githubusercontent.com/113482288/200460025-aa259841-795a-4721-b9a7-cadfde99e9a9.png)
+![image](https://user-images.githubusercontent.com/113482288/200460177-fa790e1c-5745-4eed-b159-a1466a853a03.png)
