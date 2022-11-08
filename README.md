@@ -5,8 +5,8 @@ Hello dear TAs and professor, this is our code repository for our Proof of Conce
 
 1. Download the code from the repository
 2. In your IDE (e.g Microsoft Visual Studio) use the open folder option to open the folder downloaded.
-3. We have provided a file called requirements.txt which contains all the necessary libraries and modules needed to run the code. 
-So run this code in your IDE to install these requirements to be able to run the code.
+3. We have provided a file called requirements.txt which contains all the necessary libraries and modules needed to run the repository. 
+So run the next code line in your IDE to install these requirements in your IDE.
 
 > pip install -r requirements.txt
 
