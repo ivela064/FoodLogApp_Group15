@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 4. Finally just run the command
 
-streamlit run FoodLogApp.py
+> streamlit run FoodLogApp.py
 
 - We are using the service Streamlit which allows the user to commit a website in real time which we use to deploy the app, FoodLogApp.py is the main source of the code and FoodLogApp.ipynb is a file where we set the machine learning modules where we train the AI so it learns from several images to understand how to detect food.
 
