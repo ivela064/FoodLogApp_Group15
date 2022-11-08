@@ -7,15 +7,24 @@ this is code repository for our Proof of Concept(POC) for the company S.I.M Solu
 1. Download the code from the repository
 2. In your IDE (e.g Microsoft Visual Studio) use the open folder option to open the folder downloaded and tick the trust author option.
 3. We have provided a file called requirements.txt which contains all the necessary libraries and modules needed to run the repository. 
-So run the next code line in your IDE to install these requirements in your IDE.
+So open a terminal and run the next code line in your IDE to install these requirements in your IDE.
 
 > pip install -r requirements.txt
 
-4. Finally, run the next command in your IDE terminal to execute the streamlite website and the logic code
+4. Now install streamlit,keras,tensorflow, and beautifulsoup4 in your IDE by running the next commands in your IDE (it might take a while)
+
+> pip install streamlit
+> pip install keras
+> pip install tensorflow
+> pip install BeautifulSoup4
+
+5. Finally, run the next command in your IDE terminal to execute the streamlite website and the logic code
 
 > streamlit run FoodLogApp.py
 
-5. This will open up the app where you can test the code by providing images of food.
+6. If there are any errors chances are you are missing a module, just check the error log and try to see what it is about and install the module if this is the case.
+
+7. After you have sucessfully installed every necessary modules you will be prompt to provide an email to use streamlit(you can skip this step by just pressing enter without providing any emails) then your default broswer will open up the app where you can test the code by providing images of food.
 
 - We are using the service Streamlit which allows the user to commit a website in real-time which we use to deploy the app, FoodLogApp.py is the main source of the code, and FoodLogApp.ipynb is a file where we set the machine learning modules where we train the AI. Hence, it learns from several images to understand how to detect food.
 
