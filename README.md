@@ -5,7 +5,7 @@ this is code repository for our Proof of Concept(POC) for the company S.I.M Solu
 ## How to run the code:
 
 1. Download the code from the repository
-2. In your IDE (e.g Microsoft Visual Studio) use the open folder option to open the folder downloaded.
+2. In your IDE (e.g Microsoft Visual Studio) use the open folder option to open the folder downloaded and tick the trust author option.
 3. We have provided a file called requirements.txt which contains all the necessary libraries and modules needed to run the repository. 
 So run the next code line in your IDE to install these requirements in your IDE.
 
