@@ -10,13 +10,19 @@ So run this code in your IDE to install these requirements to be able to run the
 
 > pip install -r requirements.txt
 
-4. Finally just run the command
+4. Finally just run the command in your IDE terminal
 
 > streamlit run FoodLogApp.py
+
+5. This will open up the app where you can test the code by providing images of food.
 
 - We are using the service Streamlit which allows the user to commit a website in real time which we use to deploy the app, FoodLogApp.py is the main source of the code and FoodLogApp.ipynb is a file where we set the machine learning modules where we train the AI so it learns from several images to understand how to detect food.
 
 - We have used a group of images(dataset) from these two websites [Food Dataset 1](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) - [Food Dataset 2](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
+
+- Proof of Concept Explaination
+
+We have based our effor in this proof of concept in the machine learning module, the team along with the customer have decided that this part of the app represents both what can add the most value to the customer business and also what produces the highest uncertainty. Thus, taking this into account we have spend more time than anything in making sure the Machine Learning part of the code was the most optimized. Provided that this dataset is usedan accuracy of the food recognition of around 93% will be obtained as desired from the customer.
 
 Examples
 
