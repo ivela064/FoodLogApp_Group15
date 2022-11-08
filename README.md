@@ -35,3 +35,4 @@ Since this is a proof of concept we concluded that this answers pretty well to t
 ## References:
 
 - This code would have been possible without all the repository content [here](https://github.com/Spidy20?tab=repositories), credits to its author.
+- Datasets from [dataset1](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) - [dataset2](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
