@@ -23,3 +23,7 @@ Examples
 ![image](https://user-images.githubusercontent.com/113482288/200460025-aa259841-795a-4721-b9a7-cadfde99e9a9.png)
 
 ![image](https://user-images.githubusercontent.com/113482288/200460177-fa790e1c-5745-4eed-b159-a1466a853a03.png)
+
+References:
+
+- https://github.com/Spidy20?tab=repositories This code would have been possible without all the repository help from this website, credits to its author.
