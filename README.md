@@ -10,7 +10,7 @@ So run the next code line in your IDE to install these requirements in your IDE.
 
 > pip install -r requirements.txt
 
-4. Finally just run the command in your IDE terminal
+4. Finally just run the next command in your IDE terminal to execute the streamlite website and the logic code
 
 > streamlit run FoodLogApp.py
 
