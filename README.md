@@ -1,6 +1,6 @@
 # FoodLogApp_Group15
 To whom it may concern:
-this is our code repository for our Proof of Concept(POC) for the company S.I.M Solutions which we 'created' as Group 15 of the course Software Engineering Project Management from the University of Ottawa 2022 Fall semester.
+this is code repository for our Proof of Concept(POC) for the company S.I.M Solutions which we 'created' as Group 15 of the course Software Engineering Project Management from the University of Ottawa 2022 Fall semester.
 
 ## How to run the code:
 
@@ -35,5 +35,5 @@ Since this is a proof of concept we concluded that this answers pretty well to t
 
 ## References:
 
-- This code would have been possible without all the repository content [here](https://github.com/Spidy20?tab=repositories), credits to its author.
+- This code would not have been possible without all the repository content [here](https://github.com/Spidy20?tab=repositories), credits to its author.
 - Datasets from [dataset1](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) - [dataset2](https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition)
