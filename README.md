@@ -8,7 +8,7 @@ How to run the code:
 3. We have provided a file called requirements.txt which contains all the necessary libraries and modules needed to run the code. 
 So run this code in your IDE to install these requirements to be able to run the code.
 
-pip install -r requirements.txt
+> pip install -r requirements.txt
 
 4. Finally just run the command
 
